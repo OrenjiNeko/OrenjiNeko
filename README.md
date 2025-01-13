@@ -5,16 +5,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/20cdjKKgyPEAAAAd/fauna-%E3%83%95%E3%82%A1%E3%82%A6%E3%83%8A.gif"  />
+  <img height="250" src="https://media1.tenor.com/m/20cdjKKgyPEAAAAd/fauna-%E3%83%95%E3%82%A1%E3%82%A6%E3%83%8A.gif"  />
 </div>
 
 ###
 
-<p align="left">💻 Currently working as mobile developer</p>
+<h3 align="left">💻 Currently working as mobile developer</h3>
 
 ###
 
-<p align="left">🌟 I'm currently interested in darts/flutter and go</p>
+<h3 align="left">🌟 I'm currently interested in darts/flutter and go</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🛠 Language, framework, & tools im using</p>
+<h3 align="left">🛠 Language, framework, & tools im using</h3>
 
 ###
 
@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">🔍 You can find me in</p>
+<h3 align="left">🔍 You can find me in</h3>
 
 ###
 

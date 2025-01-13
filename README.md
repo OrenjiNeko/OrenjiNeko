@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="250" src="https://media1.tenor.com/m/20cdjKKgyPEAAAAd/fauna-%E3%83%95%E3%82%A1%E3%82%A6%E3%83%8A.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/20cdjKKgyPEAAAAd/fauna-%E3%83%95%E3%82%A1%E3%82%A6%E3%83%8A.gif"  />
 
 ###
 
